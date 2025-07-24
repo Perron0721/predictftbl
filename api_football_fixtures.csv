@@ -1,0 +1,338 @@
+Fixture_ID,Date,Time,Status_Long,Status_Short,Elapsed,Home_Team,Away_Team,Home_Goals,Away_Goals,Venue,Referee
+1031275,2023-07-01,01:00:00,Match Finished,FT,90,Club America,FC Juarez,1,2,Estadio Azteca,I. Lopez
+1031277,2023-07-01,01:00:00,Match Finished,FT,90,Mazatlan,Pachuca,1,1,Estadio El Encanto,J. Lopez
+1031276,2023-07-01,03:10:00,Match Finished,FT,90,Club Tijuana,U.N.A.M. - Pumas,2,3,Estadio Caliente,D. Quintero
+1031278,2023-07-01,23:00:00,Match Finished,FT,90,Atletico San Luis,Monterrey,1,1,Estadio Alfonso Lastras Ramírez,J. Camacho
+1031279,2023-07-02,01:00:00,Match Finished,FT,90,Tigres UANL,Puebla,1,1,Estadio Universitario,Ó. Macías
+1031280,2023-07-02,03:10:00,Match Finished,FT,90,Atlas,Cruz Azul,2,0,Estadio Jalisco,V. Cáceres
+1031281,2023-07-02,18:00:00,Match Finished,FT,90,Toluca,Necaxa,0,0,Estadio Nemesio Díez,I. López
+1031282,2023-07-03,01:05:00,Match Finished,FT,90,Santos Laguna,Club Queretaro,0,2,Estadio Corona,A. Quirarte
+1031283,2023-07-04,02:00:00,Match Finished,FT,90,Leon,Guadalajara Chivas,1,2,Estadio León,Ó. Mejía
+1031284,2023-07-08,01:00:00,Match Finished,FT,90,Puebla,Santos Laguna,2,3,Estadio Cuauhtémoc,B. González
+1031290,2023-07-08,03:00:00,Match Finished,FT,90,Necaxa,Club Tijuana,1,1,Estadio Victoria,Ó. Mejía
+1031288,2023-07-08,23:50:00,Match Finished,FT,90,Cruz Azul,Toluca,0,2,Estadio Azteca,I. Lopez
+1031286,2023-07-09,00:05:00,Match Finished,FT,90,Guadalajara Chivas,Atletico San Luis,3,1,Estadio AKRON,V. Cáceres
+1031285,2023-07-09,00:06:00,Match Finished,FT,90,FC Juarez,Tigres UANL,1,1,Estadio Olímpico Benito Juárez,J. Lopez
+1031289,2023-07-09,18:00:00,Match Finished,FT,90,U.N.A.M. - Pumas,Mazatlan,0,0,Estadio Olímpico Universitario,Ó. Macías
+1031287,2023-07-10,01:00:00,Match Finished,FT,90,Monterrey,Atlas,1,0,Estadio BBVA,E. Morales
+1031292,2023-07-11,02:00:00,Match Finished,FT,90,Leon,Pachuca,4,0,Estadio León,J. Camacho
+1031293,2023-07-14,01:05:00,Match Finished,FT,90,Santos Laguna,Atlas,0,0,Estadio Corona,D. Montaño
+1031294,2023-07-14,03:00:00,Match Finished,FT,90,Guadalajara Chivas,Necaxa,2,0,Estadio AKRON,J. Lopez
+1031295,2023-07-15,01:00:00,Match Finished,FT,90,Mazatlan,Monterrey,0,3,Estadio El Encanto,B. González
+1031296,2023-07-15,03:10:00,Match Finished,FT,90,Club Tijuana,Cruz Azul,2,1,Estadio Caliente,E. Morales
+1031297,2023-07-15,23:00:00,Match Finished,FT,90,Atletico San Luis,Club Queretaro,4,1,Estadio Alfonso Lastras Ramírez,D. Quintero
+1031298,2023-07-16,01:00:00,Match Finished,FT,90,Club America,Puebla,3,0,Estadio Azteca,V. Cáceres
+1031299,2023-07-16,03:05:00,Match Finished,FT,90,Tigres UANL,Leon,1,0,Estadio Universitario,I. Lopez
+1031300,2023-07-16,18:00:00,Match Finished,FT,90,Toluca,FC Juarez,2,4,Estadio Nemesio Díez,M. Terrazas
+1031301,2023-07-17,02:15:00,Match Finished,FT,90,Pachuca,U.N.A.M. - Pumas,1,1,Estadio Hidalgo,Ó. Mejía
+1031305,2023-08-19,01:06:00,Match Finished,FT,90,Leon,Mazatlan,2,1,Estadio León,M. Quintero
+1031308,2023-08-19,03:00:00,Match Finished,FT,90,U.N.A.M. - Pumas,Toluca,1,1,Estadio Olímpico Universitario,L. Santander
+1031302,2023-08-19,03:06:00,Match Finished,FT,90,Puebla,Atletico San Luis,1,2,Estadio Cuauhtémoc,I. Lopez
+1031303,2023-08-19,03:10:00,Match Finished,FT,90,FC Juarez,Guadalajara Chivas,1,1,Estadio Olímpico Benito Juárez,F. Hernández
+1031309,2023-08-20,23:00:00,Match Finished,FT,90,Cruz Azul,Santos Laguna,2,2,Estadio Azteca,M. Ortíz
+1031310,2023-08-21,01:06:00,Match Finished,FT,90,Club Queretaro,Pachuca,1,1,Estadio Corregidora,V. Arce
+1031307,2023-08-21,01:10:00,Match Finished,FT,90,Club America,Atlas,1,1,Estadio Azteca,A. Escobedo
+1031304,2023-08-21,03:10:00,Match Finished,FT,90,Necaxa,Tigres UANL,0,3,Estadio Victoria,G. Pacheco
+1031316,2023-08-23,01:00:00,Match Finished,FT,90,Guadalajara Chivas,Club Tijuana,1,0,Estadio AKRON,A. Escobedo
+1031317,2023-08-23,01:00:00,Match Finished,FT,90,Mazatlan,Puebla,1,0,Estadio El Encanto,L. Santander
+1031312,2023-08-23,03:06:00,Match Finished,FT,90,FC Juarez,U.N.A.M. - Pumas,4,1,Estadio Olímpico Benito Juárez,I. López
+1031311,2023-08-24,01:00:00,Match Finished,FT,90,Club America,Necaxa,3,2,Estadio Azteca,M. Ortíz
+1031314,2023-08-24,01:06:00,Match Finished,FT,90,Pachuca,Cruz Azul,1,0,Estadio Hidalgo,J. Lopez
+1031424,2023-08-24,03:00:00,Match Finished,FT,90,Atletico San Luis,Leon,3,0,Estadio Alfonso Lastras Ramírez,E. Morales
+1031425,2023-08-26,01:00:00,Match Finished,FT,90,Puebla,FC Juarez,1,0,Estadio Cuauhtémoc,D. Montaño
+1031319,2023-08-26,03:10:00,Match Finished,FT,90,Club Tijuana,Mazatlan,1,1,Estadio Caliente,F. Guerrero
+1031320,2023-08-26,23:00:00,Match Finished,FT,90,Atlas,Toluca,0,0,Estadio Jalisco,G. Pacheco
+1031321,2023-08-27,01:00:00,Match Finished,FT,90,Club America,Leon,1,1,Estadio Azteca,Ó. Macías
+1031322,2023-08-27,03:05:00,Match Finished,FT,90,Santos Laguna,Guadalajara Chivas,2,1,Estadio Corona,Ó. Mejía
+1031324,2023-08-28,00:05:00,Match Finished,FT,90,U.N.A.M. - Pumas,Tigres UANL,2,1,Estadio Olímpico Universitario,F. Hernández
+1031325,2023-08-28,02:05:00,Match Finished,FT,90,Monterrey,Cruz Azul,1,2,Estadio BBVA,C. Ramos
+1031323,2023-08-28,22:00:00,Match Finished,FT,90,Necaxa,Club Queretaro,0,1,Estadio Victoria,D. Quintero
+1031326,2023-08-29,03:10:00,Match Finished,FT,90,Pachuca,Atletico San Luis,0,2,Estadio Hidalgo,J. Camacho
+1031315,2023-08-31,01:00:00,Match Finished,FT,90,Toluca,Monterrey,1,0,Estadio Nemesio Díez,D. Montaño
+1031313,2023-08-31,01:06:00,Match Finished,FT,90,Club Queretaro,Atlas,1,2,Estadio Corregidora,F. Hernández
+1031318,2023-08-31,03:00:00,Match Finished,FT,90,Tigres UANL,Santos Laguna,3,2,Estadio Universitario,D. Quintero
+1031328,2023-09-02,01:06:00,Match Finished,FT,90,FC Juarez,Mazatlan,3,1,Estadio Olímpico Benito Juárez,A. Escobedo
+1031329,2023-09-02,03:10:00,Match Finished,FT,90,Puebla,Club Tijuana,3,0,Estadio Cuauhtémoc,C. Ramos
+1031331,2023-09-02,23:00:00,Match Finished,FT,90,Leon,Necaxa,1,1,Estadio León,V. Cáceres
+1031332,2023-09-03,01:00:00,Match Finished,FT,90,Santos Laguna,U.N.A.M. - Pumas,2,1,Estadio Corona,F. Guerrero
+1031333,2023-09-03,01:05:00,Match Finished,FT,90,Tigres UANL,Club Queretaro,5,0,Estadio Universitario,I. Lopez
+1031334,2023-09-03,03:10:00,Match Finished,FT,90,Cruz Azul,Club America,2,3,Estadio Azteca,D. Quintero
+1031335,2023-09-03,18:00:00,Match Finished,FT,90,Toluca,Pachuca,5,0,Estadio Nemesio Díez,M. Ortíz
+1031330,2023-09-03,23:05:00,Match Finished,FT,90,Guadalajara Chivas,Monterrey,1,2,Estadio AKRON,Ó. Macías
+1031327,2023-09-04,02:00:00,Match Finished,FT,90,Atletico San Luis,Atlas,2,0,Estadio Alfonso Lastras Ramírez,L. Santander
+1031338,2023-09-16,01:00:00,Match Finished,FT,90,Mazatlan,Cruz Azul,2,2,Estadio El Encanto,M. Ortíz
+1031339,2023-09-16,03:10:00,Match Finished,FT,90,Club Tijuana,Toluca,2,1,Estadio Caliente,E. Miranda
+1031340,2023-09-16,23:00:00,Match Finished,FT,90,Necaxa,FC Juarez,1,1,Estadio Victoria,B. González
+1031336,2023-09-17,01:00:00,Match Finished,FT,90,Monterrey,Leon,3,1,Estadio BBVA,L. Santander
+1031337,2023-09-17,03:10:00,Match Finished,FT,90,Club America,Guadalajara Chivas,4,0,Estadio Azteca,F. Guerrero
+1031341,2023-09-17,18:00:00,Match Finished,FT,90,U.N.A.M. - Pumas,Atletico San Luis,3,2,Estadio Olímpico Universitario,C. Ramos
+1031342,2023-09-17,23:00:00,Match Finished,FT,90,Club Queretaro,Puebla,1,1,Estadio Corregidora,V. Cáceres
+1031343,2023-09-18,01:00:00,Match Finished,FT,90,Atlas,Tigres UANL,2,0,Estadio Jalisco,A. Escobedo
+1031344,2023-09-19,03:00:00,Match Finished,FT,90,Pachuca,Santos Laguna,3,2,Estadio Hidalgo,F. Hernández
+1031291,2023-09-21,02:06:00,Match Finished,FT,90,Club Queretaro,Club America,1,2,Estadio Corregidora,D. Montaño
+1031346,2023-09-23,01:00:00,Match Finished,FT,90,FC Juarez,Atlas,1,2,Estadio Olímpico Benito Juárez,V. Cáceres
+1031345,2023-09-23,01:00:00,Match Finished,FT,90,Atletico San Luis,Mazatlan,3,2,Estadio Alfonso Lastras Ramírez,F. Hernández
+1031347,2023-09-23,03:10:00,Match Finished,FT,90,Puebla,U.N.A.M. - Pumas,0,2,Estadio Cuauhtémoc,G. Pacheco
+1031349,2023-09-24,01:00:00,Match Finished,FT,90,Guadalajara Chivas,Pachuca,0,0,Estadio AKRON,C. Ramos
+1031348,2023-09-24,01:00:00,Match Finished,FT,90,Leon,Club Tijuana,1,0,Estadio León,F. Guerrero
+1031350,2023-09-24,03:05:00,Match Finished,FT,90,Tigres UANL,Monterrey,3,0,Estadio Universitario,M. Ortíz
+1031426,2023-09-24,18:00:00,Match Finished,FT,90,Toluca,Club America,1,1,Estadio Nemesio Díez,A. Escobedo
+1031352,2023-09-25,02:05:00,Match Finished,FT,90,Santos Laguna,Necaxa,2,5,Estadio Corona,Ó. Mejía
+1031351,2023-09-25,22:00:00,Match Finished,FT,90,Cruz Azul,Club Queretaro,1,3,Estadio Azteca,A. Quirarte
+1031367,2023-09-27,01:05:00,Match Finished,FT,90,Guadalajara Chivas,Mazatlan,1,3,Estadio AKRON,E. Morales
+1031353,2023-09-29,02:00:00,Match Finished,FT,90,Atlas,Puebla,2,3,Estadio Jalisco,I. Lopez
+1031354,2023-09-30,01:00:00,Match Finished,FT,90,Club Queretaro,Leon,1,1,Estadio Corregidora,G. Pacheco
+1031361,2023-09-30,03:00:00,Match Finished,FT,90,Atletico San Luis,Cruz Azul,1,2,Estadio Alfonso Lastras Ramírez,A. Escobedo
+1031356,2023-09-30,03:10:00,Match Finished,FT,90,Club Tijuana,FC Juarez,5,1,Estadio Caliente,F. Hernández
+1031357,2023-09-30,23:00:00,Match Finished,FT,90,Pachuca,Necaxa,1,1,Estadio Hidalgo,M. Terrazas
+1031359,2023-10-01,00:40:00,Match Finished,FT,90,Club America,U.N.A.M. - Pumas,1,0,Estadio Azteca,V. Cáceres
+1031355,2023-10-01,01:06:00,Match Finished,FT,90,Mazatlan,Tigres UANL,2,3,Estadio El Encanto,J. Lopez
+1031360,2023-10-02,23:20:00,Match Finished,FT,90,Toluca,Guadalajara Chivas,1,1,Estadio Nemesio Díez,D. Quintero
+1031362,2023-10-04,01:00:00,Match Finished,FT,90,Puebla,Monterrey,1,1,Estadio Cuauhtémoc,E. Miranda
+1031363,2023-10-04,03:00:00,Match Finished,FT,90,Club America,Pachuca,4,0,Estadio Azteca,M. Ortíz
+1031364,2023-10-05,01:00:00,Match Finished,FT,90,U.N.A.M. - Pumas,Club Queretaro,4,0,Estadio Olímpico Universitario,L. Santander
+1031365,2023-10-05,01:00:00,Match Finished,FT,90,Necaxa,Cruz Azul,1,3,Estadio Victoria,F. Guerrero
+1031366,2023-10-05,03:00:00,Match Finished,FT,90,Tigres UANL,Toluca,2,2,Estadio Universitario,C. Ramos
+1031368,2023-10-05,03:00:00,Match Finished,FT,90,Santos Laguna,Club Tijuana,2,1,Estadio Corona,I. Lopez
+1031370,2023-10-07,03:00:00,Match Finished,FT,90,Mazatlan,Club America,1,2,Estadio El Encanto,Ó. Mejía
+1031371,2023-10-07,23:00:00,Match Finished,FT,90,Monterrey,FC Juarez,3,1,Estadio BBVA,D. Quintero
+1031373,2023-10-08,01:00:00,Match Finished,FT,90,Guadalajara Chivas,Atlas,4,1,Estadio AKRON,A. Escobedo
+1031372,2023-10-08,01:00:00,Match Finished,FT,90,Pachuca,Tigres UANL,1,1,Estadio Hidalgo,I. Lopez
+1031374,2023-10-08,03:10:00,Match Finished,FT,90,Cruz Azul,U.N.A.M. - Pumas,1,4,Estadio Azteca,C. Ramos
+1031375,2023-10-08,18:00:00,Match Finished,FT,90,Toluca,Club Queretaro,3,1,Estadio Nemesio Díez,F. Hernández
+1031376,2023-10-08,23:00:00,Match Finished,FT,90,Necaxa,Puebla,1,2,Estadio Victoria,G. Pacheco
+1031377,2023-10-09,01:05:00,Match Finished,FT,90,Santos Laguna,Leon,0,2,Estadio Corona,M. Ortíz
+1031378,2023-10-09,03:00:00,Match Finished,FT,90,Club Tijuana,Atletico San Luis,2,1,Estadio Caliente,L. Santander
+1031379,2023-10-21,01:00:00,Match Finished,FT,90,Atlas,Mazatlan,1,3,Estadio Jalisco,M. Ortíz
+1031380,2023-10-21,01:06:00,Match Finished,FT,90,FC Juarez,Pachuca,0,1,Estadio Olímpico Benito Juárez,F. Guerrero
+1031428,2023-10-21,03:10:00,Match Finished,FT,90,Puebla,Guadalajara Chivas,0,2,Estadio Cuauhtémoc,V. Cáceres
+1031381,2023-10-21,23:00:00,Match Finished,FT,90,Leon,Toluca,1,0,Estadio León,Ó. Mejía
+1031382,2023-10-22,01:00:00,Match Finished,FT,90,Club America,Santos Laguna,4,3,Estadio Azteca,C. Ramos
+1031386,2023-10-22,01:06:00,Match Finished,FT,90,Club Queretaro,Club Tijuana,1,0,Estadio Corregidora,Ó. Macías
+1031383,2023-10-22,03:10:00,Match Finished,FT,90,Tigres UANL,Cruz Azul,2,1,Estadio Universitario,E. Morales
+1031384,2023-10-22,18:00:00,Match Finished,FT,90,U.N.A.M. - Pumas,Monterrey,0,1,Estadio Olímpico Universitario,I. Lopez
+1031385,2023-10-23,00:00:00,Match Finished,FT,90,Atletico San Luis,Necaxa,4,0,Estadio Alfonso Lastras Ramírez,F. Hernández
+1031427,2023-10-25,01:00:00,Match Finished,FT,90,Leon,Atlas,1,1,Estadio León,D. Montaño
+1031306,2023-10-26,01:00:00,Match Finished,FT,90,Monterrey,Club Tijuana,3,1,Estadio BBVA,V. Cáceres
+1031369,2023-10-26,03:06:00,Match Finished,FT,90,FC Juarez,Atletico San Luis,3,2,Estadio Olímpico Benito Juárez,Ó. Mejía
+1031387,2023-10-28,01:00:00,Match Finished,FT,90,Necaxa,U.N.A.M. - Pumas,1,0,Estadio Victoria,A. Quirarte
+1031388,2023-10-28,03:00:00,Match Finished,FT,90,Mazatlan,Club Queretaro,3,0,Estadio El Encanto,L. Santander
+1031389,2023-10-29,00:00:00,Match Finished,FT,90,Cruz Azul,Leon,1,0,Estadio Azteca,B. González
+1031391,2023-10-29,01:05:00,Match Finished,FT,90,Guadalajara Chivas,Tigres UANL,0,4,Estadio Jalisco,F. Hernández
+1031390,2023-10-29,01:05:00,Match Finished,FT,90,Pachuca,Puebla,1,1,Estadio Hidalgo,J. Camacho
+1031392,2023-10-29,03:10:00,Match Finished,FT,90,Monterrey,Club America,0,3,Estadio BBVA,A. Escobedo
+1031393,2023-10-29,18:00:00,Match Finished,FT,90,Toluca,Atletico San Luis,3,1,Estadio Nemesio Díez,C. Ramos
+1031394,2023-10-30,01:05:00,Match Finished,FT,90,Santos Laguna,FC Juarez,5,1,Estadio Corona,D. Montaño
+1031395,2023-10-30,03:00:00,Match Finished,FT,90,Club Tijuana,Atlas,2,0,Estadio Caliente,D. Quintero
+1031429,2023-11-01,01:00:00,Match Finished,FT,90,Toluca,Puebla,0,1,Estadio Nemesio Díez,Ó. Macías
+1031396,2023-11-01,01:00:00,Match Finished,FT,90,Club Queretaro,Guadalajara Chivas,1,2,Estadio Corregidora,C. Ramos
+1031397,2023-11-01,03:00:00,Match Finished,FT,90,Leon,U.N.A.M. - Pumas,1,1,Estadio León,A. Escobedo
+1031398,2023-11-01,03:05:00,Match Finished,FT,90,Monterrey,Necaxa,3,0,Estadio BBVA,Ó. Mejía
+1031399,2023-11-02,01:00:00,Match Finished,FT,90,Atlas,Pachuca,0,2,Estadio Jalisco,L. Santander
+1031400,2023-11-02,01:00:00,Match Finished,FT,90,Cruz Azul,FC Juarez,2,0,Estadio Azteca,D. Quintero
+1031402,2023-11-02,03:00:00,Match Finished,FT,90,Atletico San Luis,Club America,0,1,Estadio Alfonso Lastras Ramírez,F. Guerrero
+1031401,2023-11-02,03:00:00,Match Finished,FT,90,Mazatlan,Santos Laguna,3,1,Estadio El Encanto,F. Hernández
+1031403,2023-11-02,03:06:00,Match Finished,FT,90,Club Tijuana,Tigres UANL,2,0,Estadio Caliente,M. Ortíz
+1031404,2023-11-04,03:00:00,Match Finished,FT,90,Puebla,Leon,5,4,Estadio Cuauhtémoc,E. Morales
+1031405,2023-11-04,22:55:00,Match Finished,FT,90,Tigres UANL,Atletico San Luis,2,2,Estadio Universitario,L. Santander
+1031406,2023-11-05,01:00:00,Match Finished,FT,90,Club America,Club Tijuana,3,0,Estadio Azteca,Ó. Mejía
+1031407,2023-11-05,03:05:00,Match Finished,FT,90,Guadalajara Chivas,Cruz Azul,1,0,Estadio AKRON,A. Escobedo
+1031408,2023-11-05,03:05:00,Match Finished,FT,90,Pachuca,Monterrey,0,2,Estadio Hidalgo,D. Quintero
+1031409,2023-11-05,18:00:00,Match Finished,FT,90,U.N.A.M. - Pumas,Atlas,3,0,Estadio Olímpico Universitario,F. Guerrero
+1031410,2023-11-05,22:00:00,Match Finished,FT,90,Necaxa,Mazatlan,4,0,Estadio Victoria,C. Ramos
+1031411,2023-11-06,00:05:00,Match Finished,FT,90,Santos Laguna,Toluca,3,1,Estadio Corona,V. Cáceres
+1031412,2023-11-06,02:06:00,Match Finished,FT,90,FC Juarez,Club Queretaro,0,3,Estadio Olímpico Benito Juárez,M. Ortíz
+1031358,2023-11-09,02:00:00,Match Finished,FT,90,Monterrey,Santos Laguna,3,0,Estadio BBVA,F. Guerrero
+1031413,2023-11-11,01:00:00,Match Finished,FT,90,Atlas,Necaxa,0,0,Estadio Jalisco,G. Pacheco
+1031414,2023-11-11,01:06:00,Match Finished,FT,90,Mazatlan,Toluca,1,0,Estadio El Encanto,A. Escobedo
+1031415,2023-11-11,03:10:00,Match Finished,FT,90,Club Tijuana,Pachuca,2,3,Estadio Caliente,F. Hernández
+1031416,2023-11-11,23:00:00,Match Finished,FT,90,Club Queretaro,Monterrey,0,0,Estadio Corregidora,V. Cáceres
+1031417,2023-11-11,23:00:00,Match Finished,FT,90,Atletico San Luis,Santos Laguna,0,2,Estadio Alfonso Lastras Ramírez,M. Ortíz
+1031418,2023-11-12,01:00:00,Match Finished,FT,90,U.N.A.M. - Pumas,Guadalajara Chivas,1,0,Estadio Olímpico Universitario,Ó. Mejía
+1031419,2023-11-12,03:10:00,Match Finished,FT,90,Tigres UANL,Club America,0,0,Estadio Universitario,D. Montaño
+1031420,2023-11-13,00:00:00,Match Finished,FT,90,Cruz Azul,Puebla,1,2,Estadio Azteca,L. Santander
+1031421,2023-11-13,02:05:00,Match Finished,FT,90,Leon,FC Juarez,2,1,Estadio León,I. Lopez
+1142059,2023-11-24,01:00:00,Match Finished,FT,90,Atletico San Luis,Leon,3,2,Estadio Alfonso Lastras Ramírez,A. Escobedo
+1142060,2023-11-24,03:10:00,Match Finished,FT,90,Santos Laguna,Mazatlan,2,1,Estadio Corona,F. Guerrero
+1144268,2023-11-27,02:06:00,Match Finished,FT,90,Leon,Santos Laguna,3,2,Estadio León,C. Ramos
+1144265,2023-11-30,01:06:00,Match Finished,FT,90,Leon,Club America,2,2,Estadio León,M. Ortíz
+1144266,2023-11-30,03:10:00,Match Finished,FT,90,Atletico San Luis,Monterrey,1,0,Estadio Alfonso Lastras Ramírez,D. Quintero
+1142057,2023-12-01,01:10:00,Match Finished,FT,90,Puebla,Tigres UANL,2,2,Estadio Cuauhtémoc,Ó. Mejía
+1142042,2023-12-01,03:05:00,Match Finished,FT,90,Guadalajara Chivas,U.N.A.M. - Pumas,1,0,Estadio AKRON,F. Hernández
+1144390,2023-12-03,01:00:00,Match Finished,FT,90,Club America,Leon,2,0,Estadio Azteca,F. Guerrero
+1144267,2023-12-03,03:10:00,Match Finished,FT,90,Monterrey,Atletico San Luis,1,1,Estadio BBVA,V. Cáceres
+1142043,2023-12-04,00:00:00,Match Finished,FT,90,U.N.A.M. - Pumas,Guadalajara Chivas,3,0,Estadio Olímpico Universitario,C. Ramos
+1142058,2023-12-04,02:10:00,Match Finished,FT,90,Tigres UANL,Puebla,3,0,Estadio Universitario,A. Escobedo
+1145600,2023-12-07,03:00:00,Match Finished,FT,90,Atletico San Luis,Club America,0,5,Estadio Alfonso Lastras Ramírez,A. Escobedo
+1145602,2023-12-08,03:00:00,Match Finished,FT,90,U.N.A.M. - Pumas,Tigres UANL,0,1,Estadio Olímpico Universitario,M. Ortíz
+1145601,2023-12-10,02:00:00,Match Finished,FT,90,Club America,Atletico San Luis,0,2,Estadio Azteca,C. Ramos
+1145603,2023-12-11,02:00:00,Match Finished,FT,90,Tigres UANL,U.N.A.M. - Pumas,1,1,Estadio Universitario,F. Guerrero
+1147013,2023-12-15,03:00:00,Match Finished,FT,90,Tigres UANL,Club America,1,1,Estadio Universitario,M. Ortíz
+1150211,2024-01-13,01:00:00,Match Finished,FT,90,Club Queretaro,Toluca,2,2,Estadio Corregidora,A. Quirarte
+1150212,2024-01-13,03:00:00,Match Finished,FT,90,Mazatlan,Atletico San Luis,0,1,Estadio El Encanto,M. Quintero
+1150213,2024-01-14,01:00:00,Match Finished,FT,90,Cruz Azul,Pachuca,0,1,Estadio Ciudad de los Deportes,I. López
+1150214,2024-01-14,01:05:00,Match Finished,FT,90,Guadalajara Chivas,Santos Laguna,1,1,Estadio AKRON,J. Camacho
+1150216,2024-01-14,03:00:00,Match Finished,FT,90,Club Tijuana,Club America,0,2,Estadio Caliente,E. Morales
+1150215,2024-01-14,03:00:00,Match Finished,FT,90,Monterrey,Puebla,2,0,Estadio BBVA,G. Pacheco
+1150217,2024-01-14,18:00:00,Match Finished,FT,90,U.N.A.M. - Pumas,FC Juarez,1,0,Estadio Olímpico Universitario,M. Terrazas
+1150218,2024-01-15,00:00:00,Match Finished,FT,90,Necaxa,Atlas,2,1,Estadio Victoria,I. Lopez
+1150219,2024-01-18,01:00:00,Match Finished,FT,90,Leon,Tigres UANL,1,2,Estadio León,J. Lopez
+1150220,2024-01-20,01:00:00,Match Finished,FT,90,Puebla,Necaxa,1,2,Estadio Cuauhtémoc,V. Arce
+1150221,2024-01-20,03:00:00,Match Finished,FT,90,Atletico San Luis,U.N.A.M. - Pumas,3,1,Estadio Alfonso Lastras Ramírez,I. López
+1150222,2024-01-20,03:10:00,Match Finished,FT,90,FC Juarez,Cruz Azul,0,0,Estadio Olímpico Benito Juárez,E. Miranda
+1150223,2024-01-20,23:00:00,Match Finished,FT,90,Toluca,Mazatlan,4,1,Estadio Nemesio Díez,J. Camacho
+1150224,2024-01-21,01:05:00,Match Finished,FT,90,Club America,Club Queretaro,2,0,Estadio Azteca,M. Quintero
+1150225,2024-01-21,03:10:00,Match Finished,FT,90,Atlas,Club Tijuana,0,0,Estadio Jalisco,Ó. Macías
+1150227,2024-01-22,00:00:00,Match Finished,FT,90,Tigres UANL,Guadalajara Chivas,1,0,Estadio Universitario,G. Pacheco
+1150228,2024-01-22,02:05:00,Match Finished,FT,90,Santos Laguna,Monterrey,0,2,Estadio Corona,E. Morales
+1150239,2024-01-25,01:00:00,Match Finished,FT,90,Monterrey,Club Queretaro,1,1,Estadio BBVA,M. Ortíz
+1150238,2024-01-25,01:00:00,Match Finished,FT,90,Atletico San Luis,Tigres UANL,1,2,Estadio Alfonso Lastras Ramírez,V. Cáceres
+1150240,2024-01-25,03:06:00,Match Finished,FT,90,FC Juarez,Club America,0,2,Estadio Olímpico Benito Juárez,L. Santander
+1150229,2024-01-27,01:00:00,Match Finished,FT,90,Puebla,Toluca,1,1,Estadio Cuauhtémoc,I. López
+1150230,2024-01-27,03:00:00,Match Finished,FT,90,Club Tijuana,Guadalajara Chivas,1,1,Estadio Caliente,B. González
+1150232,2024-01-27,23:00:00,Match Finished,FT,90,Leon,Santos Laguna,3,2,Estadio León,D. Quintero
+1150231,2024-01-27,23:00:00,Match Finished,FT,90,Cruz Azul,Mazatlan,2,1,Estadio Ciudad de los Deportes,L. Santander
+1150233,2024-01-28,01:00:00,Match Finished,FT,90,Monterrey,Atletico San Luis,3,1,Estadio BBVA,J. Lopez
+1150234,2024-01-28,03:05:00,Match Finished,FT,90,Necaxa,Club America,0,0,Estadio Victoria,D. Montaño
+1150236,2024-01-28,23:15:00,Match Finished,FT,90,U.N.A.M. - Pumas,Pachuca,3,1,Estadio Olímpico Universitario,M. Quintero
+1150235,2024-01-29,01:00:00,Match Finished,FT,90,Atlas,FC Juarez,2,1,Estadio Jalisco,F. Hernández
+1150237,2024-01-29,03:00:00,Match Finished,FT,90,Club Queretaro,Tigres UANL,1,1,Estadio Corregidora,I. Lopez
+1150241,2024-01-31,01:00:00,Match Finished,FT,90,Cruz Azul,Club Tijuana,1,0,Estadio Ciudad de los Deportes,J. Lopez
+1150242,2024-01-31,01:00:00,Match Finished,FT,90,Mazatlan,Leon,2,2,Estadio El Encanto,E. Morales
+1150245,2024-01-31,03:00:00,Match Finished,FT,90,Santos Laguna,Puebla,3,0,Estadio Corona,B. González
+1150243,2024-01-31,03:05:00,Match Finished,FT,90,Guadalajara Chivas,Toluca,3,2,Estadio AKRON,F. Hernández
+1150244,2024-02-01,01:00:00,Match Finished,FT,90,Pachuca,Atlas,4,3,Estadio Hidalgo,D. Quintero
+1150246,2024-02-01,03:00:00,Match Finished,FT,90,U.N.A.M. - Pumas,Necaxa,2,2,Estadio Olímpico Universitario,C. Ramos
+1150247,2024-02-03,01:00:00,Match Finished,FT,90,Club Queretaro,Cruz Azul,1,3,Estadio Corregidora,J. Camacho
+1150248,2024-02-03,03:00:00,Match Finished,FT,90,Puebla,Mazatlan,3,2,Estadio Cuauhtémoc,F. Guerrero
+1150249,2024-02-03,23:00:00,Match Finished,FT,90,Toluca,Leon,4,1,Estadio Nemesio Díez,I. Lopez
+1150252,2024-02-04,01:05:00,Match Finished,FT,90,Tigres UANL,U.N.A.M. - Pumas,2,2,Estadio Universitario,F. Hernández
+1150251,2024-02-04,01:10:00,Match Finished,FT,90,Pachuca,Club Tijuana,3,2,Estadio Hidalgo,G. Pacheco
+1150253,2024-02-04,03:10:00,Match Finished,FT,90,Club America,Monterrey,1,1,Estadio Azteca,C. Ramos
+1150250,2024-02-04,23:06:00,Match Finished,FT,90,FC Juarez,Necaxa,2,2,Estadio Olímpico Benito Juárez,M. Ortíz
+1150254,2024-02-05,00:00:00,Match Finished,FT,90,Atlas,Santos Laguna,3,0,Estadio Jalisco,M. Terrazas
+1150255,2024-02-05,01:00:00,Match Finished,FT,90,Atletico San Luis,Guadalajara Chivas,0,2,Estadio Alfonso Lastras Ramírez,Ó. Mejía
+1150226,2024-02-08,03:10:00,Match Finished,FT,90,Pachuca,Leon,3,2,Estadio Hidalgo,A. Quirarte
+1150256,2024-02-10,01:00:00,Match Finished,FT,90,Mazatlan,Atlas,2,0,Estadio El Encanto,V. Cáceres
+1150257,2024-02-10,03:10:00,Match Finished,FT,90,Club Tijuana,Club Queretaro,1,1,Estadio Caliente,A. Escobedo
+1150258,2024-02-10,23:00:00,Match Finished,FT,90,Necaxa,Toluca,3,3,Estadio Victoria,D. Quintero
+1150259,2024-02-10,23:05:00,Match Finished,FT,90,Guadalajara Chivas,FC Juarez,2,1,Estadio AKRON,V. Arce
+1150261,2024-02-11,01:00:00,Match Finished,FT,90,Leon,Club America,0,1,Estadio León,M. Ortíz
+1150260,2024-02-11,01:05:00,Match Finished,FT,90,Cruz Azul,Atletico San Luis,3,0,Estadio Ciudad de los Deportes,F. Guerrero
+1150262,2024-02-11,03:10:00,Match Finished,FT,90,Monterrey,Pachuca,3,2,Estadio BBVA,F. Hernández
+1150263,2024-02-11,03:10:00,Match Finished,FT,90,Santos Laguna,Tigres UANL,0,3,Estadio Corona,Ó. Mejía
+1150264,2024-02-11,18:00:00,Match Finished,FT,90,U.N.A.M. - Pumas,Puebla,3,0,Estadio Olímpico Universitario,G. Pacheco
+1150283,2024-02-15,03:00:00,Match Finished,FT,90,Atlas,U.N.A.M. - Pumas,0,0,Estadio Jalisco,J. Lopez
+1150265,2024-02-17,01:00:00,Match Finished,FT,90,Club Queretaro,Necaxa,1,1,Estadio Corregidora,F. Hernández
+1150266,2024-02-17,03:00:00,Match Finished,FT,90,Mazatlan,Guadalajara Chivas,2,2,Estadio El Encanto,A. Escobedo
+1150268,2024-02-17,23:00:00,Match Finished,FT,90,Atletico San Luis,Club Tijuana,3,3,Estadio Alfonso Lastras Ramírez,D. Quintero
+1150269,2024-02-18,01:00:00,Match Finished,FT,90,Pachuca,Club America,2,1,Estadio Hidalgo,V. Cáceres
+1150270,2024-02-18,03:05:00,Match Finished,FT,90,Cruz Azul,Tigres UANL,1,0,Estadio Ciudad de los Deportes,M. Ortíz
+1150271,2024-02-18,22:00:00,Match Finished,FT,90,Atlas,Leon,0,1,Estadio Jalisco,Ó. Mejía
+1150272,2024-02-19,00:05:00,Match Finished,FT,90,U.N.A.M. - Pumas,Santos Laguna,3,0,Estadio Olímpico Universitario,I. Lopez
+1150273,2024-02-19,02:10:00,Match Finished,FT,90,Monterrey,Toluca,0,0,Estadio BBVA,L. Santander
+1150284,2024-02-21,01:00:00,Match Finished,FT,90,Puebla,Pachuca,1,4,Estadio Cuauhtémoc,M. Quintero
+1150285,2024-02-21,03:00:00,Match Finished,FT,90,Necaxa,Guadalajara Chivas,1,0,Estadio Victoria,B. González
+1150286,2024-02-22,01:00:00,Match Finished,FT,90,Toluca,Santos Laguna,1,0,Estadio Nemesio Díez,A. Quirarte
+1150288,2024-02-22,03:00:00,Match Finished,FT,90,Club America,Mazatlan,2,2,Estadio Azteca,I. Lopez
+1150287,2024-02-22,03:00:00,Match Finished,FT,90,Leon,Cruz Azul,2,3,Estadio León,D. Montaño
+1150274,2024-02-24,01:00:00,Match Finished,FT,90,Puebla,Club Queretaro,0,2,Estadio Cuauhtémoc,J. Lopez
+1150275,2024-02-24,03:00:00,Match Finished,FT,90,Necaxa,Pachuca,1,1,Estadio Victoria,J. Camacho
+1150276,2024-02-24,03:10:00,Match Finished,FT,90,FC Juarez,Monterrey,0,3,Estadio Olímpico Benito Juárez,M. Ortíz
+1150277,2024-02-24,23:00:00,Match Finished,FT,90,Leon,Atletico San Luis,1,0,Estadio León,I. López
+1150279,2024-02-25,01:00:00,Match Finished,FT,90,Tigres UANL,Atlas,1,1,Estadio Universitario,C. Ramos
+1150278,2024-02-25,01:05:00,Match Finished,FT,90,Guadalajara Chivas,U.N.A.M. - Pumas,3,1,Estadio AKRON,Ó. Macías
+1150280,2024-02-25,03:10:00,Match Finished,FT,90,Club America,Cruz Azul,1,0,Estadio Azteca,Ó. Mejía
+1150281,2024-02-25,18:00:00,Match Finished,FT,90,Toluca,Club Tijuana,2,0,Estadio Nemesio Díez,D. Montaño
+1150282,2024-02-26,00:00:00,Match Finished,FT,90,Santos Laguna,Mazatlan,1,0,Estadio Corona,F. Guerrero
+1150289,2024-02-28,01:00:00,Match Finished,FT,90,Club Queretaro,Atletico San Luis,4,1,Estadio Corregidora,E. Morales
+1150290,2024-02-29,01:00:00,Match Finished,FT,90,Tigres UANL,FC Juarez,1,0,Estadio Universitario,J. Lopez
+1150291,2024-02-29,03:00:00,Match Finished,FT,90,Club Tijuana,Monterrey,1,1,Estadio Caliente,Ó. Mejía
+1150292,2024-03-02,01:00:00,Match Finished,FT,90,Club Queretaro,Santos Laguna,0,1,Estadio Corregidora,B. González
+1150293,2024-03-02,01:00:00,Match Finished,FT,90,Atletico San Luis,Puebla,4,0,Estadio Alfonso Lastras Ramírez,V. Arce
+1150294,2024-03-02,03:00:00,Match Finished,FT,90,Mazatlan,Necaxa,2,1,Estadio El Encanto,M. Ortíz
+1150295,2024-03-02,23:00:00,Match Finished,FT,90,Toluca,Tigres UANL,2,1,Estadio Nemesio Díez,A. Escobedo
+1150296,2024-03-03,01:00:00,Match Finished,FT,90,Pachuca,FC Juarez,3,2,Estadio Hidalgo,A. Quirarte
+1150297,2024-03-03,01:05:00,Match Finished,FT,90,Cruz Azul,Guadalajara Chivas,3,0,Estadio Azteca,C. Ramos
+1150298,2024-03-03,03:10:00,Match Finished,FT,90,Atlas,Club America,1,5,Estadio Jalisco,F. Guerrero
+1150299,2024-03-04,01:00:00,Match Finished,FT,90,Monterrey,U.N.A.M. - Pumas,3,0,Estadio BBVA,V. Cáceres
+1150300,2024-03-04,03:00:00,Match Finished,FT,90,Club Tijuana,Leon,1,1,Estadio Caliente,G. Pacheco
+1150301,2024-03-09,01:00:00,Match Finished,FT,90,Puebla,Atlas,2,2,Estadio Cuauhtémoc,L. Santander
+1150303,2024-03-09,03:00:00,Match Finished,FT,90,Necaxa,Atletico San Luis,3,1,Estadio Victoria,F. Hernández
+1150302,2024-03-09,03:10:00,Match Finished,FT,90,FC Juarez,Toluca,1,1,Estadio Olímpico Benito Juárez,F. Guerrero
+1150304,2024-03-09,23:05:00,Match Finished,FT,90,Guadalajara Chivas,Leon,1,2,Estadio AKRON,D. Quintero
+1150306,2024-03-10,01:00:00,Match Finished,FT,90,Santos Laguna,Cruz Azul,3,0,Estadio Corona,A. Escobedo
+1150305,2024-03-10,01:00:00,Match Finished,FT,90,Pachuca,Club Queretaro,1,2,Estadio Hidalgo,K. Garcia
+1150307,2024-03-10,03:00:00,Match Finished,FT,90,Club America,Tigres UANL,2,0,Estadio Azteca,V. Cáceres
+1150308,2024-03-10,18:00:00,Match Finished,FT,90,U.N.A.M. - Pumas,Club Tijuana,3,3,Estadio Olímpico Universitario,M. Ortíz
+1150309,2024-03-11,01:00:00,Match Finished,FT,90,Monterrey,Mazatlan,2,1,Estadio BBVA,C. Ramos
+1150310,2024-03-16,01:00:00,Match Finished,FT,90,Club Queretaro,FC Juarez,1,0,Estadio Corregidora,L. Santander
+1150311,2024-03-16,03:00:00,Match Finished,FT,90,Club Tijuana,Santos Laguna,2,2,Estadio Caliente,D. Quintero
+1150312,2024-03-16,23:00:00,Match Finished,FT,90,Cruz Azul,Necaxa,1,2,Estadio Ciudad de los Deportes,F. Guerrero
+1150315,2024-03-17,01:00:00,Match Finished,FT,90,Tigres UANL,Mazatlan,5,1,Estadio Universitario,Ó. Mejía
+1150313,2024-03-17,01:00:00,Match Finished,FT,90,Leon,Puebla,2,1,Estadio León,K. Hernández
+1150316,2024-03-17,03:05:00,Match Finished,FT,90,Guadalajara Chivas,Club America,0,0,Estadio AKRON,F. Hernández
+1150317,2024-03-17,23:00:00,Match Finished,FT,90,Atlas,Monterrey,1,2,Estadio Jalisco,I. Lopez
+1150314,2024-03-18,01:00:00,Match Finished,FT,90,Toluca,U.N.A.M. - Pumas,3,0,Estadio Nemesio Díez,C. Ramos
+1150318,2024-03-18,01:00:00,Match Finished,FT,90,Atletico San Luis,Pachuca,2,1,Estadio Alfonso Lastras Ramírez,V. Cáceres
+1150267,2024-03-24,01:00:00,Match Finished,FT,90,FC Juarez,Puebla,4,3,Estadio Olímpico Benito Juárez,C. Ramos
+1150319,2024-03-30,01:00:00,Match Finished,FT,90,Puebla,Tigres UANL,2,3,Estadio Cuauhtémoc,J. Camacho
+1150321,2024-03-30,02:00:00,Match Finished,FT,90,Club America,Atletico San Luis,2,1,Estadio Azteca,J. Lopez
+1150320,2024-03-30,03:00:00,Match Finished,FT,90,Mazatlan,Club Tijuana,2,0,Estadio El Encanto,F. Guerrero
+1150323,2024-03-31,01:00:00,Match Finished,FT,90,Monterrey,Guadalajara Chivas,0,2,Estadio BBVA,A. Escobedo
+1150322,2024-03-31,01:00:00,Match Finished,FT,90,Pachuca,Toluca,2,3,Estadio Hidalgo,D. Quintero
+1150324,2024-03-31,03:05:00,Match Finished,FT,90,U.N.A.M. - Pumas,Cruz Azul,0,0,Estadio Olímpico Universitario,F. Hernández
+1150325,2024-03-31,23:00:00,Match Finished,FT,90,Atlas,Club Queretaro,2,3,Estadio Jalisco,C. Ramos
+1150326,2024-04-01,01:00:00,Match Finished,FT,90,Necaxa,Leon,1,2,Estadio Victoria,V. Cáceres
+1150327,2024-04-01,01:36:00,Match Finished,FT,90,FC Juarez,Santos Laguna,2,1,Estadio Olímpico Benito Juárez,E. Miranda
+1150328,2024-04-06,01:00:00,Match Finished,FT,90,Mazatlan,U.N.A.M. - Pumas,0,4,Estadio El Encanto,V. Cáceres
+1150329,2024-04-06,03:10:00,Match Finished,FT,90,Club Tijuana,Necaxa,2,3,Estadio Caliente,I. Lopez
+1150330,2024-04-06,23:00:00,Match Finished,FT,90,Leon,Club Queretaro,0,2,Estadio León,A. Escobedo
+1150332,2024-04-07,01:00:00,Match Finished,FT,90,Tigres UANL,Pachuca,0,3,Estadio Universitario,F. Hernández
+1150331,2024-04-07,01:05:00,Match Finished,FT,90,Guadalajara Chivas,Puebla,3,2,Estadio AKRON,F. Guerrero
+1150334,2024-04-07,03:05:00,Match Finished,FT,90,Santos Laguna,Club America,1,1,Estadio Corona,L. Santander
+1150333,2024-04-07,03:05:00,Match Finished,FT,90,Cruz Azul,Monterrey,2,1,Estadio Ciudad de los Deportes,M. Ortíz
+1150335,2024-04-07,18:00:00,Match Finished,FT,90,Toluca,Atlas,4,1,Estadio Nemesio Díez,K. Hernández
+1150336,2024-04-08,00:00:00,Match Finished,FT,90,Atletico San Luis,FC Juarez,2,3,Estadio Alfonso Lastras Ramírez,Ó. Mejía
+1150337,2024-04-13,01:06:00,Match Finished,FT,90,Club Queretaro,Mazatlan,0,2,Estadio Corregidora,M. Ortíz
+1150338,2024-04-13,03:00:00,Match Finished,FT,90,Necaxa,Santos Laguna,2,0,Estadio Victoria,F. Hernández
+1150339,2024-04-13,03:00:00,Match Finished,FT,90,Puebla,Cruz Azul,0,1,Estadio Cuauhtémoc,K. Garcia
+1150340,2024-04-13,23:00:00,Match Finished,FT,90,Pachuca,Guadalajara Chivas,0,1,Estadio Hidalgo,J. Lopez
+1150341,2024-04-14,01:05:00,Match Finished,FT,90,Club America,Toluca,5,1,Estadio Azteca,A. Escobedo
+1150342,2024-04-14,03:10:00,Match Finished,FT,90,Monterrey,Tigres UANL,3,3,Estadio BBVA,C. Ramos
+1150343,2024-04-15,00:00:00,Match Finished,FT,90,Atlas,Atletico San Luis,2,1,Estadio Jalisco,V. Cáceres
+1150344,2024-04-15,00:00:00,Match Finished,FT,90,U.N.A.M. - Pumas,Leon,1,0,Estadio Olímpico Universitario,D. Quintero
+1150345,2024-04-15,02:06:00,Match Finished,FT,90,FC Juarez,Club Tijuana,0,1,Estadio Olímpico Benito Juárez,L. Santander
+1150346,2024-04-20,01:00:00,Match Finished,FT,90,Mazatlan,FC Juarez,0,2,Estadio El Encanto,F. Hernández
+1150347,2024-04-20,03:00:00,Match Finished,FT,90,Atletico San Luis,Toluca,1,5,Estadio Alfonso Lastras Ramírez,D. Quintero
+1150348,2024-04-20,03:10:00,Match Finished,FT,90,Club Tijuana,Puebla,3,1,Estadio Caliente,A. Escobedo
+1150349,2024-04-20,23:00:00,Match Finished,FT,90,Leon,Monterrey,2,0,Estadio León,V. Cáceres
+1150351,2024-04-21,01:05:00,Match Finished,FT,90,Guadalajara Chivas,Club Queretaro,2,0,Estadio AKRON,Ó. Mejía
+1150350,2024-04-21,01:05:00,Match Finished,FT,90,Tigres UANL,Necaxa,5,2,Estadio Universitario,M. Ortíz
+1150354,2024-04-21,01:05:00,Match Finished,FT,90,Santos Laguna,Pachuca,0,2,Estadio Corona,I. Lopez
+1150352,2024-04-21,03:10:00,Match Finished,FT,90,U.N.A.M. - Pumas,Club America,2,1,Estadio Olímpico Universitario,F. Guerrero
+1150353,2024-04-22,00:00:00,Match Finished,FT,90,Cruz Azul,Atlas,2,2,Estadio Ciudad de los Deportes,L. Santander
+1150355,2024-04-27,01:00:00,Match Finished,FT,90,Puebla,Club America,1,2,Estadio Cuauhtémoc,G. Pacheco
+1150356,2024-04-27,03:10:00,Match Finished,FT,90,Club Queretaro,U.N.A.M. - Pumas,1,1,Estadio Corregidora,I. Lopez
+1150357,2024-04-27,23:06:00,Match Finished,FT,90,FC Juarez,Leon,1,1,Estadio Olímpico Benito Juárez,A. Escobedo
+1150358,2024-04-28,01:00:00,Match Finished,FT,90,Tigres UANL,Club Tijuana,4,1,Estadio Universitario,F. Hernández
+1150360,2024-04-28,01:00:00,Match Finished,FT,90,Toluca,Cruz Azul,0,1,Estadio Nemesio Díez,F. Guerrero
+1150359,2024-04-28,01:10:00,Match Finished,FT,90,Pachuca,Mazatlan,1,1,Estadio Hidalgo,L. Santander
+1150361,2024-04-28,03:10:00,Match Finished,FT,90,Atlas,Guadalajara Chivas,0,1,Estadio Jalisco,M. Ortíz
+1150363,2024-04-29,00:00:00,Match Finished,FT,90,Santos Laguna,Atletico San Luis,0,3,Estadio Corona,I. López
+1150362,2024-04-29,00:00:00,Match Finished,FT,90,Necaxa,Monterrey,2,5,Estadio Victoria,J. Lopez
+1198553,2024-05-06,02:06:00,Match Finished,FT,90,Pachuca,Necaxa,2,1,Estadio Hidalgo,F. Hernández
+1197967,2024-05-09,01:05:00,Match Finished,FT,90,Guadalajara Chivas,Toluca,1,0,Estadio AKRON,Ó. Mejía
+1198984,2024-05-09,03:16:00,Match Finished,FT,90,Pachuca,Club America,1,1,Estadio Hidalgo,F. Guerrero
+1198551,2024-05-10,01:00:00,Match Finished,FT,90,U.N.A.M. - Pumas,Cruz Azul,0,2,Estadio Olímpico Universitario,L. Santander
+1197969,2024-05-10,03:10:00,Match Finished,FT,90,Tigres UANL,Monterrey,1,2,Estadio Universitario,M. Ortíz
+1198985,2024-05-12,00:00:00,Match Finished,FT,90,Club America,Pachuca,1,1,Estadio Azteca,V. Cáceres
+1197968,2024-05-12,02:10:00,Match Finished,FT,90,Toluca,Guadalajara Chivas,0,0,Estadio Nemesio Díez,C. Ramos
+1198552,2024-05-13,01:00:00,Match Finished,FT,90,Cruz Azul,U.N.A.M. - Pumas,2,2,Estadio Ciudad de los Deportes,D. Quintero
+1197970,2024-05-13,03:10:00,Match Finished,FT,90,Monterrey,Tigres UANL,1,1,Estadio BBVA,F. Hernández
+1199963,2024-05-16,02:05:00,Match Finished,FT,90,Guadalajara Chivas,Club America,0,0,Estadio AKRON,Ó. Mejía
+1200174,2024-05-17,03:00:00,Match Finished,FT,90,Monterrey,Cruz Azul,0,1,Estadio BBVA,D. Quintero
+1199964,2024-05-19,02:00:00,Match Finished,FT,90,Club America,Guadalajara Chivas,1,0,Estadio Azteca,C. Ramos
+1200175,2024-05-20,00:00:00,Match Finished,FT,90,Cruz Azul,Monterrey,1,2,Estadio Ciudad de los Deportes,F. Guerrero
+1200843,2024-05-24,02:00:00,Match Finished,FT,90,Cruz Azul,Club America,1,1,Estadio Ciudad de los Deportes,F. Hernández
+1200844,2024-05-27,01:00:00,Match Finished,FT,90,Club America,Cruz Azul,1,0,Estadio Azteca,M. Ortíz
